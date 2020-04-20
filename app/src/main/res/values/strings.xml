@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Eleições Presidenciais</string>
+    <string name="lblvotar">Votar</string>
+    <string name="lblConfirmar">Confirmar</string>
+    <string name="lblcandidatos">Candidatos a presidente:</string>
+
+    <string name="radioJoao">João</string>
+    <string name="radioLuiz">Luiz</string>
+    <string name="radioMaria">Maria</string>
+    <string name="radioJose">José</string>
+    <string name="radioBranco">Branco</string>
+    <string name="radioNulo">Nulo</string>
+
+    <string name="lblIdade">Idade:</string>
+    <string name="genero">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+
+    <string name="escolaridade">Escolaridade</string>
+    <string name="casaPropria">Possui casa própria</string>
+    <string name="casapropria_nao">Não</string>
+    <string name="casapropria_sim">Sim</string>
+
+    <string-array name="lista_Escolaridade">
+        <item>Analfabeto</item>
+        <item>Ensino Médio</item>
+        <item>Graduação</item>
+        <item>Pós graduação</item>
+    </string-array>
+</resources>
